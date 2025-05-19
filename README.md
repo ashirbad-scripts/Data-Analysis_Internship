@@ -27,7 +27,7 @@ A restaurant dataset was provided; the task was to analyze the data and present 
 ## ⚠️ Notes
 
 - All scripts are **independent** and modular.  
-- Plots are stored under `/Outputs/` and `/Outputs/Level_3_Output/`.  
+- Plots are stored under `/Outputs/.  
 
 ---
 
